@@ -56,7 +56,9 @@ gem "simple_form", github: "heartcombo/simple_form"
 gem 'activerecord-import'
 gem 'faker'
 
+# database interfaces
 gem "rails_admin", "3.0"
+gem "blazer"
 
 
 group :development, :test do
